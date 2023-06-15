@@ -7,7 +7,7 @@ plugin CORESE for Gephi
   - select tab Settings
     - click on « Add »
       - Name: whatever is meaningful for you, github for example.
-      - URL: https://raw.githubusercontent.com/ErwanDemairy/test-update-nbm/main/updates.xml
+      - URL: https://github.com/Wimmics/update-semanticwebimport/raw/main/updates.xml
       - click on ok
   - select « Available Plugins »
   - search « SemanticWebImport »
