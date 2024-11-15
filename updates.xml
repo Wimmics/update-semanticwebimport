@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.8//EN" "https://netbeans.apache.org/dtds/autoupdate-catalog-2_8.dtd">
-<module_updates timestamp="11/09/12/15/06/2023">
+<module_updates timestamp="03/16/17/14/11/2024">
 
 
 
-<module codenamebase="fr.inria.edelweiss.semantic" distribution="semantic-1.4.0.nbm" downloadsize="61268176" homepage="https://wiki.gephi.org/index.php/SemanticWebImport" license="72A39686" moduleauthor="Erwan Demairy" needsrestart="true" releasedate="2023/06/15" targetcluster="plugins">
+<module codenamebase="fr.inria.corese.semantic" distribution="semantic-1.5.0.nbm" downloadsize="133010968" homepage="https://wiki.gephi.org/index.php/SemanticWebImport" license="72A39686" moduleauthor="Erwan Demairy" needsrestart="true" releasedate="2024/11/14" targetcluster="plugins">
         
-    <manifest OpenIDE-Module="fr.inria.edelweiss.semantic" OpenIDE-Module-Display-Category="Import" OpenIDE-Module-Implementation-Version="1.4.0" OpenIDE-Module-Long-Description="The purpose of this plugin is:&#10;1. to be able to read .rdfs, .rul and .rdf files;&#10;2. display the ontology (.rdf);&#10;3. display the graph of the .rdf, according to the parameters set on the types and relations defined by the ontology." OpenIDE-Module-Module-Dependencies="org.openide.awt &gt; 7.86, org.openide.windows &gt; 6.95, org.openide.filesystems &gt; 9.30, org.gephi.graph.api &gt; 0.10.0, org.gephi.io.exporter.api &gt; 0.10.0, org.gephi.io.importer.api &gt; 0.10.0, org.gephi.project.api &gt; 0.10.0, org.gephi.statistics.api &gt; 0.10.0, org.gephi.io.importer.plugin &gt; 0.10.0, org.gephi.filters.api &gt; 0.10.0, org.netbeans.modules.settings/1 &gt; 1.67, org.openide.util.lookup &gt; 8.52, org.gephi.layout.api &gt; 0.10.0, org.gephi.utils.longtask &gt; 0.10.0, org.openide.util.ui &gt; 9.26, org.openide.util &gt; 9.26" OpenIDE-Module-Name="SemanticWebImport" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Allow to configure the view of rdf and rdfs files." OpenIDE-Module-Specification-Version="1.4.0"/>
+    <manifest OpenIDE-Module="fr.inria.corese.semantic" OpenIDE-Module-Display-Category="Import" OpenIDE-Module-Implementation-Version="1.5.0" OpenIDE-Module-Long-Description="The purpose of this plugin is:" OpenIDE-Module-Module-Dependencies="org.openide.awt &gt; 7.86, org.openide.windows &gt; 6.95, org.openide.filesystems &gt; 9.30, org.gephi.graph.api &gt; 0.10.0, org.gephi.io.exporter.api &gt; 0.10.0, org.gephi.io.importer.api &gt; 0.10.0, org.gephi.project.api &gt; 0.10.0, org.gephi.statistics.api &gt; 0.10.0, org.gephi.io.importer.plugin &gt; 0.10.0, org.gephi.filters.api &gt; 0.10.0, org.netbeans.modules.settings/1 &gt; 1.67, org.openide.util.lookup &gt; 8.52, org.gephi.layout.api &gt; 0.10.0, org.gephi.utils.longtask &gt; 0.10.0, org.openide.util.ui &gt; 9.26, org.openide.util &gt; 9.26" OpenIDE-Module-Name="SemanticWebImport" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Allow to configure the view of rdf and rdfs files." OpenIDE-Module-Specification-Version="1.5.0"/>
         
 
-    <message_digest algorithm="SHA-512" value="e12826431aed226c4382afe5e1ed070ff5ee668570433940ea381ed399dda67c50b53b9c2991bfa9f07c00e6791d8d903fb9a59f30f1623c004df9f71bfee1c8"/>
+    <message_digest algorithm="SHA-512" value="f71cb35defa959b2027ca03c5e597d52d8d2dd8d53b8572952f96e7716baf65f2935b5972a9a4e831bd63eb863a8a527e3aeb5780e9dd2b7640dd5eb9390c1cf"/>
 </module>
 
 <license name="72A39686">��
